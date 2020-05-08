@@ -1,0 +1,1 @@
+This is Budgetly app coded in JS
